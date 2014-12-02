@@ -1,0 +1,29 @@
+body {
+	margin: 0 auto;
+}
+
+.container {
+	min-height: 350px;
+	padding: 2em;
+	position: relative;
+}
+
+.dark {
+	background: #D01842;
+}
+
+.light {
+	background: #6BC6EB;
+}
+
+.color {
+	background: #fff;
+}
+
+.default {
+	position: fixed;
+}
+
+.moveable {
+	position: absolute;
+}
